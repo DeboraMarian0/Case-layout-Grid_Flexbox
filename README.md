@@ -6,7 +6,7 @@ Este site foi desenvolvido para aplicar os conceitos que aprendi no curso **Prat
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 - **HTML5**: Estruturação semântica do conteúdo.
 - **CSS3 (Grid e Flexbox)**: Organização e alinhamento do layout responsivo.
 

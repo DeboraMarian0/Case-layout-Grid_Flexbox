@@ -1,4 +1,4 @@
-# CSS Grid e Flexbox - Prática Avançada 🎨
+# CSS Grid e Flexbox - Prática Avançada
 
 Este site foi desenvolvido para aplicar os conceitos que aprendi no curso **Praticando CSS: Grid e Flexbox**, da Alura. O objetivo foi combinar essas duas ferramentas poderosas para criar um layout moderno, responsivo e funcional.
 
@@ -12,7 +12,7 @@ Este site foi desenvolvido para aplicar os conceitos que aprendi no curso **Prat
 
 ---
 
-## ✨ O que aprendi
+## O que aprendi
 - Criar layouts utilizando **CSS Grid** para áreas complexas.
 - Aplicar **Flexbox** para alinhamento em componentes específicos.
 - Combinar **Grid e Flexbox** para resolver desafios práticos de layout.
@@ -20,7 +20,7 @@ Este site foi desenvolvido para aplicar os conceitos que aprendi no curso **Prat
 
 ---
 
-## 🚀 Próximos passos
+## Próximos passos
 - Explorar mais exemplos práticos combinando **Grid** e **Flexbox**.
 - Aprimorar o design visual utilizando animações e transições em CSS.
 - Incluir interatividade com **JavaScript** para uma experiência mais rica.
